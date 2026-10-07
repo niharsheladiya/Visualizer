@@ -112,7 +112,7 @@ The code is written for **beginners** 🌱: simple variable names, small methods
 
 ### 📺 Watch the full working demo here 👇
 
-> ### 🔗 **Demo Video Link:** [`PASTE YOUR VIDEO LINK HERE`](PASTE_YOUR_VIDEO_LINK_HERE)
+> ### 🔗 **Demo Video Link:** [`https://drive.google.com/file/d/12YKI5swwMtKOZDLH8dWNS9icXz01d9ms/view?usp=sharing')
 
 <!--
 HOW TO USE:
